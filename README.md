@@ -2,10 +2,7 @@
 
 ## Descrição
 
-[
-    # Descrição do Projeto
-
-    O **[Cardápio Conectado]** é uma inovadora aplicação web de cardápio digital projetada para simplificar a experiência de restaurantes e clientes. Com nosso sistema intuitivo e altamente personalizável, os restaurantes podem criar e gerenciar facilmente seus menus online, enquanto os clientes desfrutam de uma maneira conveniente de explorar opções de alimentos, fazer pedidos e fornecer feedback valioso.
+    O **Cardápio Conectado** é uma inovadora aplicação web de cardápio digital projetada para simplificar a experiência de restaurantes e clientes. Com nosso sistema intuitivo e altamente personalizável, os restaurantes podem criar e gerenciar facilmente seus menus online, enquanto os clientes desfrutam de uma maneira conveniente de explorar opções de alimentos, fazer pedidos e fornecer feedback valioso.
 
     ## Principais Recursos:
 
@@ -23,20 +20,17 @@
 
     - **Administração Centralizada:** Gerencie todos os aspectos do seu cardápio e operações de restaurante a partir de um painel centralizado.
 
-    O **[Cardápio Conectado]** é a solução perfeita para restaurantes que desejam aprimorar a experiência do cliente, aumentar a eficiência operacional e manter-se atualizados com as tendências tecnológicas em constante evolução. Facilitamos a transição para um ambiente digital, proporcionando um serviço excepcional e mantendo a satisfação do cliente em primeiro plano.
+    O **Cardápio Conectado** é a solução perfeita para restaurantes que desejam aprimorar a experiência do cliente, aumentar a eficiência operacional e manter-se atualizados com as tendências tecnológicas em constante evolução. Facilitamos a transição para um ambiente digital, proporcionando um serviço excepcional e mantendo a satisfação do cliente em primeiro plano.
 
     Junte-se a nós nesta jornada e transforme a forma como o seu restaurante serve os clientes e cresce nos negócios.
 
-]
+
 
 ## Capturas de Tela
 
-[
-
-]
 
 ## Instalação
-[
+
     ```bash
     git clone https://github.com/Ferreira-S-I/multicc.git
     ```
@@ -63,10 +57,10 @@
     sail npm i
     sail npm run dev
     ```
-]
+
 ## Uso
 
-[
+
     Create a new user account with the following command:
 
     ```bash
@@ -74,5 +68,5 @@
     ```
 
     Open /admin in your web browser, sign in, and start your app!
-]
+
 
