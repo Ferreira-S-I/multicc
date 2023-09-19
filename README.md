@@ -1,66 +1,78 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Cardápio Conectado
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Descrição
 
-## About Laravel
+[
+    # Descrição do Projeto
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+    O **[Cardápio Conectado]** é uma inovadora aplicação web de cardápio digital projetada para simplificar a experiência de restaurantes e clientes. Com nosso sistema intuitivo e altamente personalizável, os restaurantes podem criar e gerenciar facilmente seus menus online, enquanto os clientes desfrutam de uma maneira conveniente de explorar opções de alimentos, fazer pedidos e fornecer feedback valioso.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+    ## Principais Recursos:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+    - **Cardápio Digital Interativo:** Converta seu cardápio tradicional em uma versão digital e atraente, com imagens de alta qualidade, descrições detalhadas e preços atualizados em tempo real.
 
-## Learning Laravel
+    - **Pedidos Online Simplificados:** Permita que os clientes naveguem pelo cardápio, façam pedidos e personalizem suas seleções de forma rápida e fácil.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+    - **Múltiplas Opções de Pagamento:** Aceite pagamentos online seguros, incluindo cartões de crédito, carteiras digitais e muito mais.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+    - **Gestão de Pedidos Eficiente:** Simplifique o gerenciamento de pedidos em tempo real, rastreando o status dos pedidos e atualizando automaticamente os tempos de preparação.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+    - **Feedback e Avaliação:** Colete feedback dos clientes e avaliações de alimentos para melhorar constantemente a qualidade do serviço e dos produtos.
 
-## Laravel Sponsors
+    - **Personalização Avançada:** Adapte a aparência do cardápio digital para refletir a identidade da sua marca e destaque pratos especiais e promoções.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+    - **Administração Centralizada:** Gerencie todos os aspectos do seu cardápio e operações de restaurante a partir de um painel centralizado.
 
-### Premium Partners
+    O **[Cardápio Conectado]** é a solução perfeita para restaurantes que desejam aprimorar a experiência do cliente, aumentar a eficiência operacional e manter-se atualizados com as tendências tecnológicas em constante evolução. Facilitamos a transição para um ambiente digital, proporcionando um serviço excepcional e mantendo a satisfação do cliente em primeiro plano.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+    Junte-se a nós nesta jornada e transforme a forma como o seu restaurante serve os clientes e cresce nos negócios.
 
-## Contributing
+]
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Capturas de Tela
 
-## Code of Conduct
+[
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+]
 
-## Security Vulnerabilities
+## Instalação
+[
+    ```bash
+    git clone https://github.com/Ferreira-S-I/multicc.git
+    ```
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+    Rode os comandos:
 
-## License
+    ```bash
+    cd multicc
+    cp .env.example .env
+    composer install
+    ```
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+    Laravel sail:
+
+    ```bash
+    sail up -d
+    ```
+
+    Rode os comandos:
+
+    ```bash
+    sail artisan key:generate
+    sail artisan migrate
+    sail npm i
+    sail npm run dev
+    ```
+]
+## Uso
+
+[
+    Create a new user account with the following command:
+
+    ```bash
+    sail artisan make:filament-user
+    ```
+
+    Open /admin in your web browser, sign in, and start your app!
+]
+
